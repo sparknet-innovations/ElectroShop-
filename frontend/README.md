@@ -47,7 +47,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone the repository (or download the source code):**
     ```sh
-    git clone [https://github.com/your-username/electromart-app.git](https://github.com/your-username/electromart-app.git)
+    git clone [https://github.com/sparknet-innovations/ElectroShop-.git](https://github.com/sparknet-innovations/ElectroShop--app.git)
     cd electromart-app
     ```
 
