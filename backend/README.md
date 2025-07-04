@@ -1,4 +1,4 @@
-# Electromart Backend
+# ElectroShop- Backend
 
 This is the backend service for the Electromart e-commerce application. It is built with Node.js, Express, and MongoDB, and provides RESTful APIs for order management.
 
